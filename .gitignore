@@ -1,0 +1,16 @@
+
+ML_recruitment_task.pdf
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/ml_repo_template.iml
+.idea/modules.xml
+.idea/vcs.xml
+outputs/reports/classification_report_test.csv
+outputs/reports/classification_report_train.csv
+outputs/reports/feature_importances.jpg
+scripts/02_model_selection/joined_results.csv
+scripts/02_model_selection/knn_trails_results.csv
+scripts/02_model_selection/randforest_trails_results.csv
+scripts/02_model_selection/svm_trails_results.csv
+Summary.pdf
+notebooks/.ipynb_checkpoints/Explanatory_analysis-checkpoint.ipynb
+.idea/workspace.xml
