@@ -1,3 +1,6 @@
+This repositorium is a template for ML project
+This is first version, will be develop. 
+
 	Repo structure 
 	├── data 
 		├── 0_raw              	# Original, unprocessed data 
