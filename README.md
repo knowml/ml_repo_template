@@ -10,7 +10,7 @@ This is first version, will be develop.
 	├── output                 	# Outputs of modeling process 
 		├── features           	# Features transformers  
 		├── models             	# Trained models 
-		├── reports            	# Reports from raining process 
+		├── reports            	# Reports from training process 
 	├── scripts                	# Scripts 
 		├── 01_preprocessing   	# Scripts to generate processed data 
 		├── 02_model_selection 	# Scprits to run experiments 
